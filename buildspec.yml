@@ -1,0 +1,9 @@
+phases:
+  test:
+    commands:
+      - echo testing the python
+      - make test
+
+  install:
+    commands:
+      - make 
